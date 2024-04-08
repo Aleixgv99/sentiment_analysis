@@ -1,0 +1,11 @@
+/data
+/Glove
+/documents
+/images
+/models2
+/models3
+*.png
+*.txt
+*.csv
+src/model_test.ipynb
+limpiador.py
